@@ -63,7 +63,7 @@ div
 ul
 {
 	list-style: none;
-	margin-bottom: 100px;
+	margin-bottom: 0px;
 }
 p
 {
@@ -806,7 +806,8 @@ section
 	transform: translateY(-50%);
 	width: 100%;
 	z-index: 1;
-	margin-bottom: 200px;}
+	margin-bottom: 200px;
+}
 .sig_content
 {
 	width: 100%;
@@ -817,7 +818,6 @@ section
 	padding-left: 47px;
 	padding-bottom: 69px;
 	padding-right: 75px;
-	margin-bottom: 200px;}
 }
 .sig_subtitle
 {
@@ -870,6 +870,7 @@ section
 	color: #232323;
 	padding-left: 9px;
 	margin-top: 1px;
+	margin-bottom: 100px;
 }
 .sig_price
 {
